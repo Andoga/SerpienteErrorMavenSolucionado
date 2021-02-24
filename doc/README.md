@@ -20,7 +20,7 @@ Integrantes del grupo:
 
 __12-01-2021__
 
-*Carmen* -> Creación de cuenta en GitHub, creación de repositorio Snake en GitHub, creación de una rama para trabajar en ella y creación del proyecto Snake. 
+__*Carmen*__ -> Creación de cuenta en GitHub, creación de repositorio Snake en GitHub, creación de una rama para trabajar en ella y creación del proyecto Snake. 
 
 *Francisco González* -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella.
 
