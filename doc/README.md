@@ -56,7 +56,7 @@ __*Francisco González*__ -> Actualización del documento README 📝, creación
 
 __09-02-2021__ 📆
 
-__*Carmen Mateo*__-> Continuación del diagrama de clases y comienzo del diagrama de objetos. 
+__*Carmen Mateo*__-> Comienzo del diagrama de objetos. 
 
 __14-02-2021__ 📆
 
@@ -74,7 +74,7 @@ __*Ángel*__ -> Añadidos de nuevos métodos y estados a la clase Serpiente y cl
 
 __22-02-2021__ 📆
 
-__*Francisco González y Ángel Doña*__ Hemos hecho el método controlaEstadoJugando en la clase Controlador y finalización de esta clase, correcion de errores en la clase Serpiente, en la clase Controlador y en la clase MygdxGame. Una vez finalizadas todas las clases, ⚠️ hemos intentado hacer el push al repositorio y __nos hemos dado cuenta que no podiamos__ y todo __se debe__ a que __en__ la asignatura de __programación, hemos instalado Maven__. Estuvimos __buscando por internet como poder solucionarlo y despues de casi dos horas y no encontar nada al respecto, hemos decidido crear un nuevo proyecto en android studio para ver si así al ser nuevo, no tendriamos ningun error.__ ⚠️
+__*Francisco González y Ángel Doña*__ Hemos hecho el método controlaEstadoJugando en la clase Controlador y finalización de esta clase, correcion de errores en la clase Serpiente, en la clase Controlador y en la clase MygdxGame. Hemos arreglado un error que teniamos en la clase EstadoTeclado en el metodo simulaTeclado. Una vez, todo revisado y terminada la clase EstadoTeclado nos ha surgido el siguiente error:  ⚠️ hemos intentado hacer el push al repositorio y __nos hemos dado cuenta que no podiamos__ y todo __se debe__ a que __en__ la asignatura de __programación, hemos instalado Maven__. Estuvimos __buscando por internet como poder solucionarlo y despues de casi dos horas y no encontar nada al respecto, hemos decidido crear un nuevo proyecto en android studio para ver si así al ser nuevo, no tendriamos ningun error.__ ⚠️ El nuevo repositorio es: https://github.com/Andoga/SerpienteErrorMavenSolucionado . Una vez creado el nuevo repositorio, hicimos el push sin problema ya y decidimos testear el juego, durante el testeo, surgio algunos errores leves de imagenes que podimos arreglar. Y lo siguiente que decidimos hacer, fue darle mas vida al juego añadiendo sonidos.
  
 __*Pablo Bravo*__ -> Finaliza el diagrama de caso de uso.📁
 
@@ -88,10 +88,8 @@ __24-02-2021__ 📆
  
 __*Ángel Doña*__->
 
-__*Francisco González*__-> Finalización del diagrama de clases.
+__*Francisco González*__-> Elaboración del diagrama de clases.
 
 __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración del documento.
 
 __*Carmen*__ -> Finalización del diagrama de objetos.
-
-__*Juan Rueda*__ -> Comienzo del diagrama de estados.
