@@ -20,7 +20,7 @@ Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
 __12-01-2021__ 📆
 
-__*Carmen*__ -> Creación de: Cuenta en GitHub, repositorio Snake en GitHub, una rama para trabajar en ella y *creación* del proyecto **Snake**. 
+__*Carmen*__ -> Creación de: Cuenta en GitHub, repositorio Snake en GitHub, una rama para trabajar en ella y *creación* del proyecto **Snake**.🐍 
 
 __*Francisco González*__ -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella.
 
@@ -66,7 +66,7 @@ __*Juan Rueda*__ -> Ayuda a Pablo Bravo en el diseño del diagrama de caso de us
 
 __*Carmen Mateo*__ -> Elaboración de las imágenes de inicio y fin del juego. 
 
-__*Andrés Segura*__ -> Elaboración de la clase EstadoTeclado.
+__*Andrés Segura*__ -> Elaboración de la clase EstadoTeclado. 
 
 __*Francisco González*__ -> Actualización del documento readme, añadidos de nuevos métodos y estados a la clase Controlador. Con su correspondiente commit y push. 
 
