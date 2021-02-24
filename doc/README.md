@@ -92,4 +92,6 @@ __*Francisco González*__-> Elaboración del diagrama de clases.
 
 __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración del documento.
 
-__*Carmen*__ -> Finalización del diagrama de objetos.
+__*Carmen*__ -> Finalización del diagrama de objetos y ayuda a Andrés con el diagrama de estado.
+
+__*Andrés Segura*__ -> Comienzo de la elaboración del diagrama de estado del comportamiento render en la clase Controlador.
