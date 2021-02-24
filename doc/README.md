@@ -4,12 +4,18 @@
 
 Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
-Integrantes del grupo 
-• Carmen Mateo 
-• Pablo Bravo 
-• Juan Rueda 
-• Andrés Segura 
-• Ángel Doña 
+Integrantes del grupo:
+
+• Carmen Mateo
+
+• Pablo Bravo
+
+• Juan Rueda
+
+• Andrés Segura
+
+• Ángel Doña
+
 • Francisco González
 
 __12-01-2021__
