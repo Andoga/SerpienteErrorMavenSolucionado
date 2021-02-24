@@ -1,6 +1,6 @@
 # SerpienteCorregidoErrorMaven
  
-Snake
+# H2 Snake
 
 Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
@@ -12,8 +12,19 @@ Integrantes del grupo
 • Ángel Doña 
 • Francisco González
 
-12-01-2021
-Carmen -> Creación de cuenta en GitHub, creación de repositorio Snake en GitHub, creación de una rama para trabajar en ella y creación del proyecto Snake. Francisco González -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella. Ángel Doña -> Creación de una cuenta en GitHub, clonación del repositorio Snake en GitHub, instalación del GDX en el proyecto y push a la rama master. Pablo Bravo -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella. Juan Rueda -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella. Andrés Segura -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella.
+*12-01-2021*
+
+Carmen -> Creación de cuenta en GitHub, creación de repositorio Snake en GitHub, creación de una rama para trabajar en ella y creación del proyecto Snake. 
+
+Francisco González -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella.
+
+Ángel Doña -> Creación de una cuenta en GitHub, clonación del repositorio Snake en GitHub, instalación del GDX en el proyecto y push a la rama master. 
+
+Pablo Bravo -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella. 
+
+Juan Rueda -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella. 
+
+Andrés Segura -> Creación de una cuenta en GitHub, clonación del repositorio Snake y creación de una rama para trabajar en ella.
 
 14-01-2021 
 Francisco González, Pablo Bravo y Ángel Doña -> Recopilando información sobre otros proyectos ya realizados en internet del juego Snake para obtener algunas ideas para poder continuar.
