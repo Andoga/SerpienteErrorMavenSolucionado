@@ -88,8 +88,10 @@ __24-02-2021__ 📆
  
 __*Ángel Doña*__->
 
-__*Francisco González*__->
+__*Francisco González*__-> Finalización del diagrama de clases.
 
 __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración del documento.
 
 __*Carmen*__ -> Finalización del diagrama de objetos.
+
+__*Juan Rueda*__ -> Comienzo del diagrama de estados.
