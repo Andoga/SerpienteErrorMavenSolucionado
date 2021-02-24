@@ -56,7 +56,7 @@ __*Francisco González*__ -> Actualización del documento README 📝, creación
 
 __09-02-2021__ 📆
 
-__*Carmen Mateo*__-> Finalización del diagrama de clases y comienzo del diagrama de objetos. 
+__*Carmen Mateo*__-> Continuación del diagrama de clases y comienzo del diagrama de objetos. 
 
 __14-02-2021__ 📆
 
@@ -64,7 +64,7 @@ __*Pablo Bravo*__ -> Elaboración diagrama de caso de uso.
 
 __*Juan Rueda*__ -> Ayuda a Pablo Bravo en el diseño del diagrama de caso de uso.
 
-__*Carmen Mateo*__ -> Elaboración de las imágenes de inicio y fin del juego. 
+__*Carmen Mateo*__ -> Comienzo de la elaboración de las imágenes de inicio y fin del juego. 
 
 __*Andrés Segura*__ -> Elaboración de la clase EstadoTeclado. 
 
@@ -82,6 +82,8 @@ __23-02-2021__ 📆
 
 __*Pablo Bravo*__ -> Diseño e implementación del sprite del cuerpo de la serpiente. 🐍
 
+__*Carmen*__ -> Finalización de las imágenes de inicio y fin de partida.
+
 __24-02-2021__ 📆
  
 __*Ángel Doña*__->
@@ -89,3 +91,5 @@ __*Ángel Doña*__->
 __*Francisco González*__->
 
 __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración del documento.
+
+__*Carmen*__ -> Finalización del diagrama de objetos.
