@@ -19,8 +19,9 @@ public class Controlador {
     //CONSTANTES
     protected final static String IMAGEN_INICIAL = "imagenInicio.png";
     protected final static String IMAGEN_FINAL = "imagenFinal.png";
-    protected final static int TIEMPO_CRECER = 239;
-    protected final static int TIEMPO_MOVER = 59;
+    protected final static String FONDO = "fondo.png";
+    protected final static int TIEMPO_CRECER = 240;
+    protected final static int TIEMPO_MOVER =60;
     private Music menu;
     private Music jugando;
     private Music gameover;
@@ -37,6 +38,7 @@ public class Controlador {
     //IMAGENES SPLASH PARA INICIO Y FINAL
     protected  Texture imagenInicio;
     protected Texture imagenFinal;
+    protected Texture imagenFondo;
 
     //El SIMULADOR DE TECLADO
     EstadoTeclado et;
@@ -64,6 +66,7 @@ public class Controlador {
         batch = new SpriteBatch();
         imagenInicio= new Texture(IMAGEN_INICIAL);
         imagenFinal = new Texture(IMAGEN_FINAL);
+        imagenFondo = new Texture(FONDO);
         et = new EstadoTeclado(Gdx.graphics.getWidth(),Gdx.graphics.getHeight());
         anchoPantalla = anchoReal;
         controlTiempo = 0;
@@ -113,6 +116,9 @@ public class Controlador {
 
     //COMPORTAMIENTO DE CONTROL Y DIBUJO DEL VIDEOJUEGO
     public void render(){
+        batch.begin();
+        batch.draw(imagenFondo,0,0,Gdx.graphics.getWidth(),Gdx.graphics.getHeight());
+        batch.end();
         switch (controlVG){
             case INICIO: this.pantallaInicio();
                 break;
@@ -138,7 +144,8 @@ public class Controlador {
         controlVG = Videojuego.JUGANDO;
         serpi.dispose();
         serpi = nuevaSerpiente;
-        jugando.setVolume(0.25f);
+        jugando.setLooping(true);
+        jugando.setVolume(0.75f);
         jugando.play();
     }
 
@@ -162,19 +169,21 @@ public class Controlador {
 
 
         //TENGO QUE MOVER LA SERPIENTE O CRECER LA SERPIENTE
-        if (controlTiempo % TIEMPO_MOVER == 0){
+         if(controlTiempo == TIEMPO_CRECER){
+            serpi.crecer();
+            controlTiempo = 1;
+         }else if (controlTiempo % TIEMPO_MOVER == 0){
             serpi.moverse();
             controlTiempo++;
-        }else if(controlTiempo == TIEMPO_CRECER){
-            serpi.crecer();
-            controlTiempo = 0;
-        }else {
+         }
+         else {
             controlTiempo++;
-        }
+         }
 
         //ME HABRE CHOCADO??
         if (serpi.hasMuerto()) {
             controlVG = Videojuego.FINALIZADO;
+            jugando.dispose();
         }
 
 
@@ -184,7 +193,8 @@ public class Controlador {
     }
 
     private void finalPartida(){
-        jugando.dispose();
+
+
         gameover.play();
         batch.begin();
         batch.draw(imagenFinal, 0, 0, Gdx.graphics.getWidth(),Gdx.graphics.getHeight());

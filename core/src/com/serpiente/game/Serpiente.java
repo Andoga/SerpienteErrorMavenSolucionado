@@ -88,6 +88,7 @@ public class Serpiente {
         nuevaCabeza = new Pieza(cabezaAntigua);
         nuevaCabeza.moverse(direccion);
         miCuerpo.add(0,nuevaCabeza);
+        crecer.play();
 
 
 

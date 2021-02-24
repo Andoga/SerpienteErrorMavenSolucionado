@@ -23,7 +23,7 @@ public class Pieza {
 
     //textura a dibujar
     protected Texture textura;
-    protected final static String MIIMAGEN = "SpriteSnake.png";
+    protected final static String MIIMAGEN = "SpriteSnake1.jpeg";
 
     ////////////////////
     // COMPORTAMIENTO //
