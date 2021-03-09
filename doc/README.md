@@ -12,7 +12,7 @@ Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
 • __Francisco González__:
 
-• __Carmen Mateo__: Diseño y creación de los splash art de las pantallas inicio/fin, creación del diagrama de objetos
+• __Carmen Mateo__: Diseño y creación de los splash art de las pantallas inicio/fin, creación del diagrama de objetos y originalmente también el de clases (por razones acabó haciéndolo Francisco)
 
 • __Juan Rueda__:
 
