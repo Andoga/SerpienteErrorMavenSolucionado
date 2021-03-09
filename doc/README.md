@@ -85,8 +85,6 @@ __*Pablo Bravo*__ -> Diseño e implementación del sprite del cuerpo de la serpi
 __*Carmen*__ -> Finalización de las imágenes de inicio y fin de partida.
 
 __24-02-2021__ 📆
- 
-__*Ángel Doña*__->
 
 __*Francisco González*__-> Elaboración del diagrama de clases.
 
@@ -95,3 +93,12 @@ __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración
 __*Carmen*__ -> Finalización del diagrama de objetos y ayuda a Andrés con el diagrama de estado.
 
 __*Andrés Segura*__ -> Comienzo de la elaboración del diagrama de estado del comportamiento render en la clase Controlador.
+
+
+__08-03-2021__ 📆
+
+__*Carmen*__ -> Comienza la corrección del diagrama de objetos
+
+__*Ángel Doña*__-> Comienza la corrección del diagrama de clases junto con Francisco.
+
+__*Francisco González*__-> Comienza la corrección del diagrama de clases junto con Ángel.
