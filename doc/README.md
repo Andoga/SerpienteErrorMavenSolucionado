@@ -4,19 +4,19 @@
 
 Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
-*Integrantes del grupo*: 👨‍💻
+*Integrantes del grupo y sus tareas correspondientes*: 👨‍💻
 
-• __Pablo Bravo__
+• __Pablo Bravo__:
 
-• __Ángel Doña__
+• __Ángel Doña__:
 
-• __Francisco González__
+• __Francisco González__:
 
-• __Carmen Mateo__
+• __Carmen Mateo__: Diseño y creación de los splash art de las pantallas inicio/fin, creación del diagrama de objetos
 
-• __Juan Rueda__
+• __Juan Rueda__:
 
-• __Andrés Segura__
+• __Andrés Segura__:
 
 __12-01-2021__ 📆
 
@@ -60,13 +60,15 @@ __*Carmen Mateo*__-> Comienzo del diagrama de objetos.
 
 __14-02-2021__ 📆
 
+Estando todos en llamada de discord se comenzó a hablar el tema de las imágenes de inicio y fin de partida. Carmen propuso diseñarlas y dibujarlas ella y fue enseñando conceptos y bocetos durante la llamada hasta que se llegó al diseño final.
+
 __*Pablo Bravo*__ -> Elaboración diagrama de caso de uso.
 
 __*Juan Rueda*__ -> Ayuda a Pablo Bravo en el diseño del diagrama de caso de uso.
 
 __*Carmen Mateo*__ -> Comienzo de la elaboración de las imágenes de inicio y fin del juego. 
 
-__*Andrés Segura*__ -> Elaboración de la clase EstadoTeclado. 
+__*Andrés Segura*__ -> Elaboración de la clase EstadoTeclado. (Debido a problemas con el repositorio, Ángel hizo el commit por él)
 
 __*Francisco González*__ -> Actualización del documento readme, añadidos de nuevos métodos y estados a la clase Controlador. Con su correspondiente commit y push. 
 
@@ -86,6 +88,8 @@ __*Carmen*__ -> Finalización de las imágenes de inicio y fin de partida.
 
 __24-02-2021__ 📆
 
+Debido a que el diagrama de clases de Carmen no estaba terminado (faltaban un par de métodos y la clase EstadoTeclado) Francisco decidió empezarlo de cero.
+
 __*Francisco González*__-> Elaboración del diagrama de clases.
 
 __*Pablo Bravo López*__-> Arreglos del README 📝, pulir limpieza, decoración del documento.
@@ -94,7 +98,6 @@ __*Carmen*__ -> Finalización del diagrama de objetos y ayuda a Andrés con el d
 
 __*Andrés Segura*__ -> Comienzo de la elaboración del diagrama de estado del comportamiento render en la clase Controlador.
 
-
 __08-03-2021__ 📆
 
 __*Carmen*__ -> Comienza la corrección del diagrama de objetos
@@ -102,3 +105,7 @@ __*Carmen*__ -> Comienza la corrección del diagrama de objetos
 __*Ángel Doña*__-> Comienza la corrección del diagrama de clases junto con Francisco.
 
 __*Francisco González*__-> Comienza la corrección del diagrama de clases junto con Ángel.
+
+__08-03-2021__ 📆
+
+__*Carmen*__ -> Correción del README y compara commits con el documento para comprobar el trabajo de cada uno.
