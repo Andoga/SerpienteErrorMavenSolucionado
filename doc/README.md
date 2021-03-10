@@ -4,19 +4,21 @@
 
 Juego de la Serpiente (Snake) en Java con la librería ligdx.
 
-*Integrantes del grupo y sus tareas correspondientes*: 👨‍💻
+__*En este proyecto el trabajo no se ha repartido, fuimos haciendo sobre la marcha.*__
 
-• __Pablo Bravo__:
+*Integrantes del grupo*: 👨‍💻
 
-• __Ángel Doña__:
+• __Pablo Bravo__
 
-• __Francisco González__:
+• __Ángel Doña__
 
-• __Carmen Mateo__: Diseño y creación de los splash art de las pantallas inicio/fin, creación del diagrama de objetos y originalmente también el de clases (por razones acabó haciéndolo Francisco)
+• __Francisco González__
 
-• __Juan Rueda__:
+• __Carmen Mateo__
 
-• __Andrés Segura__:
+• __Juan Rueda__
+
+• __Andrés Segura__
 
 __12-01-2021__ 📆
 
