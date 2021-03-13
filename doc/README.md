@@ -58,7 +58,7 @@ __*Francisco González*__ -> Actualización del documento README 📝, creación
 
 __09-02-2021__ 📆
 
-__*Carmen Mateo*__-> Comienzo del diagrama de objetos. 
+__*Carmen Mateo*__-> Comienzo del diagrama de objetos y clases. 
 
 __14-02-2021__ 📆
 
@@ -108,6 +108,6 @@ __*Ángel Doña*__-> Comienza la corrección del diagrama de clases junto con Fr
 
 __*Francisco González*__-> Comienza la corrección del diagrama de clases junto con Ángel.
 
-__08-03-2021__ 📆
+__09-03-2021__ 📆
 
 __*Carmen*__ -> Correción del README y compara commits con el documento para comprobar el trabajo de cada uno.
